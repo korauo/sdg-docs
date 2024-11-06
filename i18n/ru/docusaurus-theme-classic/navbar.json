@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Цели устойчивого развития",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Goals": {
+    "message": "Цели",
+    "description": "Navbar item with label Goals"
+  },
+  "item.label.United Nations": {
+    "message": "Объединенные Нации",
+    "description": "Navbar item with label United Nations"
+  },
+  "item.label.United Arab Emirates": {
+    "message": "Объединенные Арабские Эмираты",
+    "description": "Navbar item with label United Arab Emirates"
+  }
+}

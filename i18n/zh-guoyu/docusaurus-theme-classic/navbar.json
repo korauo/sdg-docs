@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "可持续发展目标",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Goals": {
+    "message": "目标",
+    "description": "Navbar item with label Goals"
+  },
+  "item.label.United Nations": {
+    "message": "联合国",
+    "description": "Navbar item with label United Nations"
+  },
+  "item.label.United Arab Emirates": {
+    "message": "阿拉伯联合酋长国",
+    "description": "Navbar item with label United Arab Emirates"
+  }
+}
